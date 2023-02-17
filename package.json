@@ -1,0 +1,24 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@nuxt/image-edge": "^1.0.0-27919678.2f5b64b",
+    "@nuxtjs/tailwindcss": "^6.4.0",
+    "nuxt": "^3.2.0",
+    "nuxt-icon": "^0.2.11"
+  },
+  "dependencies": {
+    "@headlessui/vue": "^1.7.10",
+    "@tiptap/pm": "^2.0.0-beta.217",
+    "@tiptap/starter-kit": "^2.0.0-beta.217",
+    "@tiptap/vue-3": "^2.0.0-beta.217",
+    "@vueup/vue-quill": "^1.1.0",
+    "notiwind": "^2.0.0"
+  }
+}
